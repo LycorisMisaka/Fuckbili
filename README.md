@@ -5,7 +5,7 @@
 ## 文件说明
 
 - `bilibili_oneclick_delete.py` - 一键删除脚本。
-- `getreply (1).json` - 示例 AICU 导出 JSON 文件（用于测试或手动模式）。
+
 
 ## 功能特性
 
